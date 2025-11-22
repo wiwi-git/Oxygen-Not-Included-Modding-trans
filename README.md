@@ -17,7 +17,7 @@
 
 <h3>
 
-Head over to the [wiki](https://github.com/wiwi-git/Oxygen-Not-Included-Modding-trans/wiki) to see the guide
+가이드를 보려면 [wiki](https://github.com/wiwi-git/Oxygen-Not-Included-Modding-trans/wiki) 로 가세요
 
 </h3>
 </div>  
